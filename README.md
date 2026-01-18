@@ -1,2 +1,2 @@
 # Skill-Blog
-am a learner, documenting my journey. Whatever I learn, I share , so knowledge can grow together.
+i am a learner, documenting my journey. Whatever I learn, I share , so knowledge can grow together.
